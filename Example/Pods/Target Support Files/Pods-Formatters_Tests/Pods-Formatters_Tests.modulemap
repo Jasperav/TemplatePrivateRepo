@@ -1,0 +1,6 @@
+framework module Pods_Formatters_Tests {
+  umbrella header "Pods-Formatters_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
