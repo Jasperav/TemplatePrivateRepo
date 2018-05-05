@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Formatters_Tests' do
+  pod 'Formatters', :path => '../'
+  
+  
+end
