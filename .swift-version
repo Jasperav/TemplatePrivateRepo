@@ -1,0 +1,6 @@
+
+ -> Formatters -> Formatters (0.1.0)
+    - ERROR | [iOS] xcodebuild: Returned an unsuccessful exit code. You can use `--verbose` for more information.
+
+[!] Formatters did not pass validation, due to 1 error.
+You can use the `--no-clean` option to inspect any issue.

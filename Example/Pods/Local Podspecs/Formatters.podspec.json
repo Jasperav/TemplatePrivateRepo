@@ -1,9 +1,9 @@
 {
   "name": "Formatters",
   "version": "0.1.0",
-  "summary": "A short description of Formatters.",
+  "summary": "formatting enzooo",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Jasperav/Formatters",
+  "homepage": "https://github.com/Jasperav/TemplatePrivateRepo",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Jasperav": "Jasperav@hotmail.com"
   },
   "source": {
-    "git": "https://github.com/Jasperav/Formatters.git",
+    "git": "https://github.com/Jasperav/TemplatePrivateRepo.git",
     "tag": "0.1.0"
   },
   "platforms": {
